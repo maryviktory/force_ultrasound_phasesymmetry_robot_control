@@ -8,8 +8,7 @@ The work was presented at IRC2019 named "3D Ultrasound Imaging of Scoliosis with
 ![Alt text](force_ultrasound_phasesymmetry_robot_control
 \Navigation_robotic_Polyu\GUI\Capture.JPG?raw=true "GUI")
 
-![GitHub Logo](force_ultrasound_phasesymmetry_robot_control
-\Navigation_robotic_Polyu\GUI\Capture.JPG)
+![GitHub Logo](https://github.com/maryviktory/force_ultrasound_phasesymmetry_robot_control/blob/master/Navigation_robotic_Polyu/GUI/Capture.JPG)
 Robotic control for two cases:
 1) (Force control) Robot moves along pre-recorded trajectory and applies force control to assure that it always applies constant preasure to the phantom's skin.
 
