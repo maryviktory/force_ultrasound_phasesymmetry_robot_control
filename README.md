@@ -3,7 +3,7 @@ In this project robot was scanning the surface of human spine phantom to capture
 
 The **Force control part** of the work was presented at IRC2019 named "3D Ultrasound Imaging of Scoliosis with Force-Sensitive Robotic Scanning", [publication website](https://ieeexplore.ieee.org/document/8675657).
 
-The **Force-Image part** of the work was presented at IROS2019 workshop, the video of the work presentationis presented here, **[video](https://www.youtube.com/watch?v=ccLseg5XS0w&ab_channel=Grow2Gather)**
+The **Force-Image part** of the work was presented at IROS2019 workshop, the video of the work presentationis presented here, **[video](https://www.youtube.com/watch?v=ccLseg5XS0w&ab_channel=Grow2Gather)** "Robotic Ultrasound Navigation for Scoliosis Diagnostic and Facet Joint Injections"
 
 Robotic control for two cases:
 1) (Force control) Robot moves along pre-recorded trajectory and applies force control to assure that it always applies constant preasure to the phantom's skin.
