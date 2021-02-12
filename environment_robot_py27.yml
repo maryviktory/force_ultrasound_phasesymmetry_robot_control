@@ -1,4 +1,4 @@
-name: robot
+name: robot_copy
 channels:
   - menpo
   - anaconda
